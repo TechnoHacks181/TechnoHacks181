@@ -5,9 +5,9 @@
 ---
 
 ### [ 0x01 // IDENTITY_LOG ]
-* **Role**: Junior Information Security Analyst.
+* **Role**: Security Engineer.
 - **Focus**: Purple Team Operations & Incident Response.
-* **Project**: Architect of the VØRTEK Mainframe.
+* **Project**: VØRTEK OFFENSIVE.
 
 ---
 

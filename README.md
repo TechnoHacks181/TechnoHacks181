@@ -27,3 +27,11 @@ const VORTEK = {
   hardware: ["Yamaha HS Series", "High-Performance Compute"],
   mindset: "Purple Team Operations"
 };
+```
+
+<details>
+<summary><code>[ LEGAL_NOTICE ]</code></summary>
+
+The content within VØRTEK OFFENSIVE is provided for educational and authorized professional security research purposes only. The author assumes no liability for the misuse of the techniques or tools discussed herein. Security assessments and research must be conducted strictly within authorized environments. VØRTEK is committed to the ethical advancement of offensive and defensive security operations.
+
+</details>

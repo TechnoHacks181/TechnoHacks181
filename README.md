@@ -1,16 +1,29 @@
-## Hi there 👋
+# VØRTEK OFFENSIVE // [INITIALIZED] 🌑
 
-<!--
-**TechnoHacks181/TechnoHacks181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Signal, not noise. If you want to understand the system, you have to be the one who breaks it."**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ 0x01 // IDENTITY_LOG ]
+* **Role**: Junior Information Security Analyst.
+- **Focus**: Purple Team Operations & Incident Response.
+* **Project**: Architect of the VØRTEK Mainframe.
+
+---
+
+### [ 0x02 // TRANSMISSION_CHANNELS ]
+| Protocol | Destination |
+| :--- | :--- |
+| **Mainframe** | [vortekoffensive.com](https://vortekoffensive.com) |
+| **Intel Node** | [Reddit /vortekoffensive](https://reddit.com/r/VortekOffensive) |
+| **Comm Center** | [Discord Coordination](https://linktr.ee/vortek.offensive) |
+
+---
+
+### [ 0x03 // TECH_INTEL ]
+```javascript
+const VORTEK = {
+  stack: ["Next.js", "Three.js", "Python", "DLP Architecture"],
+  hardware: ["Yamaha HS Series", "High-Performance Compute"],
+  mindset: "Purple Team Operations"
+};
